@@ -12,12 +12,6 @@
 npm install
 ```
 
-2. Instalar playwright
-```
-npm init playwright@latest
-```
-
-
 ## 🤖 Como executar
 
 2. Executar testes em Headless
