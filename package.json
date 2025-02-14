@@ -1,0 +1,22 @@
+{
+  "name": "desafioqatriosolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuelolie/desafioQAtriosolutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuelolie/desafioQAtriosolutions/issues"
+  },
+  "homepage": "https://github.com/Samuelolie/desafioQAtriosolutions#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4"
+  }
+}
